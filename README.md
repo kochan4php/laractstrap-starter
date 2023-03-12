@@ -1,7 +1,7 @@
 ## Setup project
 
 ```
-composer create-project kochan4php/laractstrap-starter
+composer create-project kochan4php/laractstrap-starter your-app-name
 ```
 
 ```
