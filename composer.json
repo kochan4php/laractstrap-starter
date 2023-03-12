@@ -1,7 +1,7 @@
 {
     "name": "kochan4php/laravel-inertia-react-bootstrap-starter",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Laravel Inertia React with Bootstrap CSS framework starter template (Alternative Breeze Inertia React)",
     "keywords": [
         "framework",
         "laravel",
