@@ -1,15 +1,17 @@
 {
-    "name": "kochan4php/laravel-inertia-react-bootstrap-starter",
+    "name": "kochan4php/laractstrap-starter",
     "type": "project",
     "description": "Laravel Inertia React with Bootstrap CSS framework starter template (Alternative Breeze Inertia React)",
     "keywords": [
         "framework",
         "laravel",
-        "laravel starter template",
-        "laravel inertia",
-        "laravel react",
-        "laravel bootstrap",
-        "laravel 10"
+        "laravel-starter-template",
+        "laravel-inertia",
+        "laravel-react",
+        "laravel-bootstrap",
+        "laravel-10",
+        "laravel-inertia-react",
+        "monolith"
     ],
     "license": "MIT",
     "require": {
