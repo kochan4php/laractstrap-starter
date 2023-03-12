@@ -1,8 +1,16 @@
 {
-    "name": "laravel/laravel",
+    "name": "kochan4php/laravel-inertia-react-bootstrap-starter",
     "type": "project",
     "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "keywords": [
+        "framework",
+        "laravel",
+        "laravel starter template",
+        "laravel inertia",
+        "laravel react",
+        "laravel bootstrap",
+        "laravel 10"
+    ],
     "license": "MIT",
     "require": {
         "php": "^8.1",
