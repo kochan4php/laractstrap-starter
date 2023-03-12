@@ -1,7 +1,7 @@
-### Setup project
+## Setup project
 
 ```
-composer create-project kochan4php/laravel-inertia-react-bootstrap-starter your-app-name
+composer create-project kochan4php/laractstrap-starter
 ```
 
 ```
